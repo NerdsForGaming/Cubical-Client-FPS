@@ -1,2 +1,5 @@
 # Cubical-Client-FPS
-just a client i'm making you can clone
+
+# Warning all code might not work correctly 
+
+Made for help with contributers
